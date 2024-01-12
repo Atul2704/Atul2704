@@ -5,7 +5,7 @@
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>MERN</b> stack<br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects**<br>
+✨ Passionate about learning new technologies<br>🌱 Currently pushing the limits in <b>CPP</b><br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects**<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/AJTITAN">![Footer quote][quote-url]</a>
+  <a href="https://github.com/AtulJoshi1206">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
@@ -99,4 +99,4 @@
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
 [leetcode-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=leetcode
 [gfg-shield]: https://img.shields.io/badge/-Ashish%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/AJTITAN
+[github-url]: https://github.com/AtulJoshi1206
