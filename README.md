@@ -81,7 +81,7 @@
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
+[gfg-url]: https://auth.geeksforgeeks.org/user/atuljoshi1206
 [hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
 [hackerrank-url]: https://www.hackerrank.com/AJTITAN
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
