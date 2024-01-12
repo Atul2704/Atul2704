@@ -67,20 +67,20 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=AJTITAN
-[github-stars-shield]: https://img.shields.io/github/stars/AJTITAN?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=AtulJoshi1206
+[github-stars-shield]: https://img.shields.io/github/stars/AtulJoshi1206?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=AtulJoshi1206&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/AJTITAN?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=AJTITAN
-[leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
-[github-followers-shield]: https://img.shields.io/github/followers/AJTITAN?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=AJTITAN&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN&theme=algolia
+[leetcode-url]: https://leetcode.com/Atul_joshi/
+[gfg-url]: https://auth.geeksforgeeks.org/user/atuljoshi1206
+[github-followers-shield]: https://img.shields.io/github/followers/AtulJoshi1206?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AtulJoshi1206&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=AtulJoshi1206&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=AtulJoshi1206&theme=algolia
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/AJTITAN
+[leetcode-url]: https://leetcode.com/Atul_joshi/
 [gfg-url]: https://auth.geeksforgeeks.org/user/atuljoshi1206
 [hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
 [hackerrank-url]: https://www.hackerrank.com/AJTITAN
@@ -90,9 +90,9 @@
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 [gmail-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=gmail
-[gmail-url]: mailto:ashishjoshi2023@gmail.com
+[gmail-url]: mailto:atul.joshi1206@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/ajtitan
+[linkedin-url]: https://www.linkedin.com/in/atul-joshi-54928018a/
 [github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
 [linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
 [github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
