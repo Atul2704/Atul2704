@@ -62,7 +62,7 @@
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AJTITAN/count.svg" />
+  <img src="https://profile-counter.glitch.me/AtulJoshi1206/count.svg" />
 </p>
 
 
@@ -74,7 +74,7 @@
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=atuljoshi1206
 [leetcode-url]: https://leetcode.com/Atul_joshi/
 [gfg-url]: https://auth.geeksforgeeks.org/user/atuljoshi1206
-[github-followers-shield]: https://img.shields.io/github/followers/Atul_Joshi?style=social
+[github-followers-shield]: https://img.shields.io/github/followers/AtulJoshi1206?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AtulJoshi1206&theme=algolia
 [github-streak]: https://streak-stats.demolab.com?user=AtulJoshi1206&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=AtulJoshi1206&theme=algolia
